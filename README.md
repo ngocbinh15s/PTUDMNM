@@ -1,2 +1,2 @@
 Leader: Nguyễn Ngọc Bình
-Thanh Vien 2: Nguyen Ngoc Binh
+Member: Nguyễn Lê Phi Hào
